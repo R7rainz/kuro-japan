@@ -13,7 +13,7 @@ omarchy theme set kuro-japan
 ## Included
 
 - Soft charcoal surfaces with a pure-black top bar
-- Fuji, convenience-store, Fushimi Inari, Tokyo Tower, and Arashiyama wallpapers
+- Mount Fuji, Lawson with Mount Fuji, and Tokyo Tower wallpapers
 - Transparent Mount Fuji unlock art with a small smoke plume
 - Generated terminal, shell, editor, browser, and system-tool colors through `colors.toml`
 
