@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" role="img" aria-labelledby="title desc">
+  <title id="title">Kuro Japan color palette</title>
+  <desc id="desc">Twelve labeled color swatches used by the Kuro Japan Omarchy theme.</desc>
+  <rect width="960" height="200" rx="16" fill="#141519"/>
+  <g font-family="sans-serif" font-size="13" text-anchor="middle">
+    <g transform="translate(18 18)"><rect width="144" height="72" rx="8" fill="#141519" stroke="#8993a0"/><text x="72" y="31" fill="#fff9ee">Background</text><text x="72" y="52" fill="#f0ece5">#141519</text></g>
+    <g transform="translate(174 18)"><rect width="144" height="72" rx="8" fill="#30323a"/><text x="72" y="31" fill="#fff9ee">Raised surface</text><text x="72" y="52" fill="#f0ece5">#30323a</text></g>
+    <g transform="translate(330 18)"><rect width="144" height="72" rx="8" fill="#f0ece5"/><text x="72" y="31" fill="#141519">Foreground</text><text x="72" y="52" fill="#30323a">#f0ece5</text></g>
+    <g transform="translate(486 18)"><rect width="144" height="72" rx="8" fill="#fff9ee"/><text x="72" y="31" fill="#141519">Bright foreground</text><text x="72" y="52" fill="#30323a">#fff9ee</text></g>
+    <g transform="translate(642 18)"><rect width="144" height="72" rx="8" fill="#8993a0"/><text x="72" y="31" fill="#141519">Muted</text><text x="72" y="52" fill="#fff9ee">#8993a0</text></g>
+    <g transform="translate(798 18)"><rect width="144" height="72" rx="8" fill="#eb866b"/><text x="72" y="31" fill="#141519">Vermilion / accent</text><text x="72" y="52" fill="#141519">#eb866b</text></g>
+    <g transform="translate(18 110)"><rect width="144" height="72" rx="8" fill="#8daee8"/><text x="72" y="31" fill="#141519">Blue</text><text x="72" y="52" fill="#141519">#8daee8</text></g>
+    <g transform="translate(174 110)"><rect width="144" height="72" rx="8" fill="#a6bc8f"/><text x="72" y="31" fill="#141519">Green</text><text x="72" y="52" fill="#141519">#a6bc8f</text></g>
+    <g transform="translate(330 110)"><rect width="144" height="72" rx="8" fill="#e8b170"/><text x="72" y="31" fill="#141519">Yellow</text><text x="72" y="52" fill="#141519">#e8b170</text></g>
+    <g transform="translate(486 110)"><rect width="144" height="72" rx="8" fill="#e29465"/><text x="72" y="31" fill="#141519">Copper</text><text x="72" y="52" fill="#141519">#e29465</text></g>
+    <g transform="translate(642 110)"><rect width="144" height="72" rx="8" fill="#ed705e"/><text x="72" y="31" fill="#141519">Red</text><text x="72" y="52" fill="#141519">#ed705e</text></g>
+    <g transform="translate(798 110)"><rect width="144" height="72" rx="8" fill="#d09eae"/><text x="72" y="31" fill="#141519">Sakura</text><text x="72" y="52" fill="#141519">#d09eae</text></g>
+  </g>
+</svg>
