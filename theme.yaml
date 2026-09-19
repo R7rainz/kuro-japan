@@ -1,0 +1,15 @@
+name: kuro-japan
+slug: "kuro-japan"
+hyprland_version: "4.0"
+display_name: Kuro Japan
+version: 1.0.0
+author: Rainz
+description: A soft-black Japanese-inspired theme with ivory text and vermilion accents.
+variant: dark
+mood: ["dark"]
+color_family: red
+tags:
+  - japanese
+  - charcoal
+  - vermilion
+  - minimal

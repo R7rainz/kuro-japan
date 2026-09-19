@@ -1,0 +1,35 @@
+# Kuro Japan for Omarchy: soft charcoal, Fuji slate, dusk copper, and ivory.
+
+mode = "dark"
+
+accent = "#d8785f"
+selection = "#3c3435"
+muted = "#73777d"
+
+background = "#1a1b1f"
+dark_background = "#141519"
+darker_background = "#0f1013"
+lighter_background = "#282a30"
+
+foreground = "#e7e2db"
+dark_foreground = "#858b95"
+light_foreground = "#c9c6bf"
+bright_foreground = "#f7f1e6"
+
+red = "#d76555"
+yellow = "#d39a67"
+orange = "#c98661"
+green = "#88998c"
+cyan = "#8ea2ad"
+blue = "#7e91aa"
+magenta = "#ad8f96"
+brown = "#a16f5b"
+
+bright_red = "#ec8a73"
+bright_yellow = "#e5b681"
+bright_green = "#b0c0ac"
+bright_cyan = "#b8cbd2"
+bright_blue = "#a9bfd4"
+bright_magenta = "#ceb0b4"
+
+hyprland_active_border = "rgba(d8785fff) rgba(f7f1e6ff) rgba(c98661ff) rgba(d8785fff) 90deg"
